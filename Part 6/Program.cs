@@ -74,6 +74,7 @@ namespace Part_6
                 rand = gen.Next(minRand, maxRand + 1);
                 Console.WriteLine(rand);
             }
+            //Only odd left 
         }
     }
 }
